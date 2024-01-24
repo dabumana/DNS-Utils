@@ -1,10 +1,10 @@
 # DNS-Utils
- BASH scripts useful for basic network operations on DNS.
+Useful scripts for basic network operations on DNS.
 ---
-### Gobee
+* **Gobee**
 A simple honeypot for a DNS server usign golang, can be extended and linked to the alerst on Snort.
 
-### Gosoc
+* **Gosoc**
 Generator tool to grab the IoC list from Inquest Labs and transform it into snort rules.
 ---
 ### Disclaimer
